@@ -2,6 +2,8 @@
 
 **Invoke-EnumDelegations** is a PowerShell tool that enumerates all AWS accounts with delegated administrator permissions within your AWS Organization. It retrieves detailed metadata for each delegated account, including account name, email, status, organizational unit, tags, and the list of services for which the account has delegation enabled.
 
+The HuntDelegations.ps1 script finds delegation activity.
+
 ---
 
 ##  Prerequisites
